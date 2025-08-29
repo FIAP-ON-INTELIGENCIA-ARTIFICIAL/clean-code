@@ -15,7 +15,7 @@
 Ler e discutir o <em>Código Limpo</em> em ritmo constante, praticando princípios de código limpo, legibilidade, testes e profissionalismo.
 
 ## 🗓️ Encontros
-- **Quando:** terças, **19h–20h**
+- **Quando:** terças, **20h–21h**
 - **Formato:** online (Google Meet)
 - **Ritmo sugerido:** 1 capítulo/semana  
 > Pauta por encontro: Abertura (5 min) · Discussão (40–45 min) · Encerramento (10–15 min)
