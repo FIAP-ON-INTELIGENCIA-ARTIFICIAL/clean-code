@@ -1,6 +1,6 @@
 <!-- Capa do livro (fundo transparente) -->
 <p align="center">
-  <img src="assets/clean-code-cover.png" alt="Capa do livro Código Limpo (fundo transparente)" width="220" />
+  <img src="assets/clean-code-cover.png" alt="Capa do livro Código Limpo (fundo transparente)" width="320" />
 </p>
 
 <h1 align="center">Grupo de Estudos — Código Limpo (Clean Code)</h1>
